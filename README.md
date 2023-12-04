@@ -1,5 +1,7 @@
 # flecs-tower-defense
 
+https://github.com/SanderMertens/tower_defense change to use local modules and cmake
+
 ## Prerequisites
 
 - vcpkg
